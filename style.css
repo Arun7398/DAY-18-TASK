@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+    #weather-btn{
+        margin: auto;
+    }
+    .card-title{
+        background-color: black;
+    }
+    .aname{
+        color: blue;
+        margin: 20px;
+    }
+    .card-text{
+        margin: 20px;
+}
+}
